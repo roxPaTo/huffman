@@ -1,0 +1,13 @@
+{
+	"name": "roxpato/huffman",
+	"description": "Algoritmo de Huffman em Matlab.",
+	"keywords": [
+		"huffman", "compressão"
+	],
+	"author": [
+		{
+			"name": "Thiago Basso",
+			"email": "thiago.basso@gmail.com"
+		}
+	]
+}
