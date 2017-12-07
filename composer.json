@@ -9,5 +9,6 @@
 			"name": "Thiago Basso",
 			"email": "thiago.basso@gmail.com"
 		}
-	]
+	],
+	"minimum-stability": "dev"
 }
